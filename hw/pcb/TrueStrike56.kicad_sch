@@ -16148,6 +16148,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C126669"
+			(at 200.66 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4dfc12af-42be-40a9-bddd-6813dfc81a16")
 		)
@@ -16213,6 +16222,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 407.67 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 407.67 247.65 0)
 			(effects
 				(font
@@ -16364,6 +16382,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C28233"
+			(at 227.33 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2efa42f3-d831-4fbf-a1af-3614a72f2b36")
 		)
@@ -16434,6 +16461,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C28233"
+			(at 69.85 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f205f768-c370-4d41-b379-5b240732930c")
 		)
@@ -16496,6 +16532,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 331.47 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 331.47 247.65 0)
 			(effects
 				(font
@@ -16645,6 +16690,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C126669"
+			(at 38.1 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cf16fbc2-8e18-490a-a70f-6b0b2481adde")
 		)
@@ -16668,7 +16722,7 @@
 		(at 368.3 48.26 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -16707,6 +16761,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 368.3 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 368.3 48.26 0)
 			(effects
 				(font
@@ -16851,6 +16914,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C28233"
+			(at 412.75 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e16d390c-c523-4a49-a11b-8173d9202a1a")
 		)
@@ -16912,6 +16984,15 @@
 			)
 		)
 		(property "Description" "Linear Hall Effect Sensor, SOT23 3pin"
+			(at 281.94 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C126669"
 			(at 281.94 173.99 0)
 			(effects
 				(font
@@ -16992,6 +17073,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C126669"
+			(at 119.38 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6ec45697-f3c6-471b-a003-97a826a9a517")
 		)
@@ -17064,6 +17154,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C126669"
+			(at 78.74 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8839fa22-fce6-4484-bb68-7a5418137aaf")
 		)
@@ -17128,6 +17227,15 @@
 			)
 		)
 		(property "Description" "Linear Hall Effect Sensor, SOT23 3pin"
+			(at 241.3 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C126669"
 			(at 241.3 151.13 0)
 			(effects
 				(font
@@ -17276,6 +17384,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C28233"
+			(at 232.41 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "920e8e1e-67b5-4d89-bd62-2f7efad9b65e")
 		)
@@ -17337,6 +17454,15 @@
 			)
 		)
 		(property "Description" "Linear Hall Effect Sensor, SOT23 3pin"
+			(at 241.3 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C126669"
 			(at 241.3 173.99 0)
 			(effects
 				(font
@@ -17418,6 +17544,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C28233"
+			(at 227.33 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e0c42138-3ff1-4a4f-bda7-d61ecf56e4ab")
 		)
@@ -17480,6 +17615,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 422.91 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 422.91 161.29 0)
 			(effects
 				(font
@@ -17564,6 +17708,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C28233"
+			(at 146.05 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3cee831f-0fb0-4450-9b34-a25e7cc0bb55")
 		)
@@ -17625,6 +17778,15 @@
 			)
 		)
 		(property "Description" "Linear Hall Effect Sensor, SOT23 3pin"
+			(at 200.66 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C126669"
 			(at 200.66 196.85 0)
 			(effects
 				(font
@@ -17836,6 +17998,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C126669"
+			(at 200.66 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dc9b6216-f1db-487e-a599-91dfd99c895e")
 		)
@@ -17900,6 +18071,15 @@
 			)
 		)
 		(property "Description" "Linear Hall Effect Sensor, SOT23 3pin"
+			(at 38.1 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C126669"
 			(at 38.1 82.55 0)
 			(effects
 				(font
@@ -17973,6 +18153,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 328.93 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C28233"
 			(at 328.93 105.41 0)
 			(effects
 				(font
@@ -18183,6 +18372,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C126669"
+			(at 281.94 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "283f79d3-7ed4-459d-beed-1feb7125af02")
 		)
@@ -18247,6 +18445,15 @@
 			)
 		)
 		(property "Description" "Linear Hall Effect Sensor, SOT23 3pin"
+			(at 38.1 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C126669"
 			(at 38.1 128.27 0)
 			(effects
 				(font
@@ -18320,6 +18527,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 384.81 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 384.81 176.53 0)
 			(effects
 				(font
@@ -18404,6 +18620,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C5149201"
+			(at 369.57 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "612c0647-0c16-4472-847f-2015ccba0099")
 		)
@@ -18471,6 +18696,15 @@
 			)
 		)
 		(property "Description" "Linear Hall Effect Sensor, SOT23 3pin"
+			(at 78.74 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C126669"
 			(at 78.74 173.99 0)
 			(effects
 				(font
@@ -18686,6 +18920,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C85220"
+			(at 284.48 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "63e873c5-8c23-44f8-88a6-5710eb6e1b54")
 		)
@@ -18789,6 +19032,15 @@
 			)
 		)
 		(property "Description" "Linear Hall Effect Sensor, SOT23 3pin"
+			(at 38.1 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C126669"
 			(at 38.1 151.13 0)
 			(effects
 				(font
@@ -18935,6 +19187,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C126669"
+			(at 119.38 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "64604e33-1e86-4a5e-be4d-6c44020bcaca")
 		)
@@ -19007,6 +19268,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C126669"
+			(at 38.1 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "215565a5-dbfd-4db9-a8a0-a611e7f82779")
 		)
@@ -19071,6 +19341,15 @@
 			)
 		)
 		(property "Description" "Linear Hall Effect Sensor, SOT23 3pin"
+			(at 160.02 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C126669"
 			(at 160.02 128.27 0)
 			(effects
 				(font
@@ -19218,6 +19497,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C28233"
+			(at 110.49 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9443bbe8-e684-4702-af52-fe22d84de8f9")
 		)
@@ -19280,6 +19568,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 354.33 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 354.33 220.98 0)
 			(effects
 				(font
@@ -19364,6 +19661,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C28233"
+			(at 267.97 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "005dc47a-6816-4ca5-a207-29ba8eb7ce5c")
 		)
@@ -19426,6 +19732,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 354.33 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 354.33 132.08 0)
 			(effects
 				(font
@@ -19502,6 +19817,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 331.47 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 331.47 161.29 0)
 			(effects
 				(font
@@ -19715,6 +20039,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C126669"
+			(at 281.94 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "65e510da-5791-4151-8d2c-89ddbcefa80e")
 		)
@@ -19780,6 +20113,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 369.57 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 369.57 132.08 0)
 			(effects
 				(font
@@ -19930,6 +20272,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C126669"
+			(at 281.94 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "94f7de3a-4f46-4405-bc0e-1b322a23043f")
 		)
@@ -19995,6 +20346,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 186.69 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C28233"
 			(at 186.69 43.18 0)
 			(effects
 				(font
@@ -20138,6 +20498,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C126669"
+			(at 281.94 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "12f52e49-4021-4147-b536-a9001bba1e56")
 		)
@@ -20202,6 +20571,15 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 191.77 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C28233"
+			(at 191.77 280.67 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20345,6 +20723,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C126669"
+			(at 160.02 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4447d0b7-40b6-4e71-9d3b-a603a037b614")
 		)
@@ -20409,6 +20796,15 @@
 			)
 		)
 		(property "Description" "Linear Hall Effect Sensor, SOT23 3pin"
+			(at 200.66 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C126669"
 			(at 200.66 105.41 0)
 			(effects
 				(font
@@ -20490,6 +20886,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C28233"
+			(at 146.05 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3272011f-f0c1-40af-94e1-581e064a705e")
 		)
@@ -20551,6 +20956,15 @@
 			)
 		)
 		(property "Description" "Linear Hall Effect Sensor, SOT23 3pin"
+			(at 78.74 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C126669"
 			(at 78.74 36.83 0)
 			(effects
 				(font
@@ -20624,6 +21038,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 361.95 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 361.95 74.93 0)
 			(effects
 				(font
@@ -20708,6 +21131,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C5149201"
+			(at 400.05 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9b972cb4-0c41-46f6-a27e-c5316bc922a9")
 		)
@@ -20784,6 +21216,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C28233"
+			(at 267.97 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4e448955-cf49-4e45-a7b8-43bff7ec6841")
 		)
@@ -20846,6 +21287,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 377.19 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 377.19 161.29 0)
 			(effects
 				(font
@@ -20929,6 +21379,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C126669"
+			(at 281.94 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "264911d7-b9b7-4a16-bfd5-717f625e358f")
 		)
@@ -20994,6 +21453,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 400.05 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 400.05 220.98 0)
 			(effects
 				(font
@@ -21070,6 +21538,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 24.13 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C28233"
 			(at 24.13 203.2 0)
 			(effects
 				(font
@@ -21215,6 +21692,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C28233"
+			(at 146.05 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f8a1e314-e2d3-49ac-808c-911deea41eb8")
 		)
@@ -21277,6 +21763,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 361.95 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 361.95 116.84 0)
 			(effects
 				(font
@@ -21494,6 +21989,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C28233"
+			(at 412.75 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "10a3c55e-0ccc-43c9-957c-d7cb47dbd747")
 		)
@@ -21564,6 +22068,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C28233"
+			(at 186.69 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "103d8ddc-6cff-461a-a7ad-bb3b14a59883")
 		)
@@ -21626,6 +22139,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 346.71 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 346.71 161.29 0)
 			(effects
 				(font
@@ -21710,6 +22232,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C5149201"
+			(at 377.19 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "510d562e-b39c-4bfb-b67c-b57004a9f787")
 		)
@@ -21778,6 +22309,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 328.93 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C28233"
 			(at 328.93 148.59 0)
 			(effects
 				(font
@@ -21856,6 +22396,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C28233"
+			(at 151.13 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "fe552046-9f89-43b2-b1dc-e00f1616a57e")
 		)
@@ -21917,6 +22466,15 @@
 			)
 		)
 		(property "Description" "Linear Hall Effect Sensor, SOT23 3pin"
+			(at 78.74 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C126669"
 			(at 78.74 128.27 0)
 			(effects
 				(font
@@ -21997,6 +22555,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C126669"
+			(at 119.38 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "841f84fa-dcb2-43d8-a9d0-cdcc4b9a4fa8")
 		)
@@ -22062,6 +22629,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 384.81 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 384.81 220.98 0)
 			(effects
 				(font
@@ -22146,6 +22722,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C5149201"
+			(at 415.29 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8db83692-8d5a-4f94-af10-9a24c51b60e2")
 		)
@@ -22214,6 +22799,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 146.05 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C28233"
 			(at 146.05 203.2 0)
 			(effects
 				(font
@@ -22292,6 +22886,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C28233"
+			(at 24.13 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d8cc7764-9abc-4f2c-9fd4-da2f3baea3cf")
 		)
@@ -22353,6 +22956,15 @@
 			)
 		)
 		(property "Description" "Linear Hall Effect Sensor, SOT23 3pin"
+			(at 160.02 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C126669"
 			(at 160.02 36.83 0)
 			(effects
 				(font
@@ -22426,6 +23038,15 @@
 			)
 		)
 		(property "Description" "8-channel analog multiplexer/demultiplexer, DIP-16/SOIC-16/TSSOP-16"
+			(at 243.84 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C85220"
 			(at 243.84 224.79 0)
 			(effects
 				(font
@@ -22611,6 +23232,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C85220"
+			(at 40.64 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "235bd7b2-6409-4b62-92dc-877af35c5b9a")
 		)
@@ -22723,6 +23353,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C5149201"
+			(at 346.71 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "bfe3c27a-8eb6-4724-8e92-15a084d399c2")
 		)
@@ -22791,6 +23430,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 267.97 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C28233"
 			(at 267.97 203.2 0)
 			(effects
 				(font
@@ -22999,6 +23647,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C28233"
+			(at 412.75 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "93581086-4f26-4106-8cba-04397b131803")
 		)
@@ -23135,6 +23792,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C5149201"
+			(at 354.33 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "63bfde36-504f-4b44-bfc7-a0afe805129a")
 		)
@@ -23203,6 +23869,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 267.97 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C28233"
 			(at 267.97 66.04 0)
 			(effects
 				(font
@@ -23281,6 +23956,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C5149201"
+			(at 415.29 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1542e5ca-f451-47c4-9475-f6e21e21007d")
 		)
@@ -23349,6 +24033,15 @@
 			)
 		)
 		(property "Description" "Triple analog Multiplexer 2 to 1 line"
+			(at 111.76 298.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5647"
 			(at 111.76 298.45 0)
 			(effects
 				(font
@@ -23534,6 +24227,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C5149201"
+			(at 392.43 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0c73ed5d-6c38-44a1-8ebb-7c00047452ab")
 		)
@@ -23602,6 +24304,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 331.47 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 331.47 116.84 0)
 			(effects
 				(font
@@ -23686,6 +24397,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C5149201"
+			(at 407.67 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2fb1399e-a6eb-4af6-8482-1c907a2b9cd8")
 		)
@@ -23754,6 +24474,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 328.93 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C28233"
 			(at 328.93 236.22 0)
 			(effects
 				(font
@@ -23832,6 +24561,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C28233"
+			(at 64.77 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "dc53b45c-2135-477e-b278-5fe33cd3dcc3")
 		)
@@ -23894,6 +24632,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 392.43 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 392.43 161.29 0)
 			(effects
 				(font
@@ -24110,6 +24857,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C5149201"
+			(at 384.81 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "805a50a5-ed9b-40c9-9ed5-30c0d2c1ebb8")
 		)
@@ -24176,6 +24932,15 @@
 			)
 		)
 		(property "Description" "Quadruple Bus Buffer Gates With 3-State Outputs"
+			(at 161.29 294.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C155176"
 			(at 161.29 294.64 0)
 			(effects
 				(font
@@ -24281,6 +25046,15 @@
 			)
 		)
 		(property "Description" "Linear Hall Effect Sensor, SOT23 3pin"
+			(at 160.02 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C126669"
 			(at 160.02 59.69 0)
 			(effects
 				(font
@@ -24428,6 +25202,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C126669"
+			(at 119.38 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "37c64205-8ffb-458d-b893-493c096ace92")
 		)
@@ -24493,6 +25276,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 331.47 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 331.47 205.74 0)
 			(effects
 				(font
@@ -24569,6 +25361,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 227.33 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C28233"
 			(at 227.33 203.2 0)
 			(effects
 				(font
@@ -24713,6 +25514,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C126669"
+			(at 241.3 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8756c283-dc61-4cf8-bd39-1e318f3e7c25")
 		)
@@ -24778,6 +25588,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 339.09 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 339.09 90.17 0)
 			(effects
 				(font
@@ -24861,6 +25680,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C126669"
+			(at 241.3 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "87199d24-2540-4a47-b76c-38565dd8df08")
 		)
@@ -24934,6 +25762,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C28233"
+			(at 186.69 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5883404c-dd71-4081-968b-c02a0e22b5ad")
 		)
@@ -24996,6 +25833,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 24.13 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C28233"
 			(at 24.13 43.18 0)
 			(effects
 				(font
@@ -25207,6 +26053,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C5149201"
+			(at 377.19 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0070c1ce-732a-45a7-9575-a8e97cec2813")
 		)
@@ -25274,6 +26129,15 @@
 			)
 		)
 		(property "Description" "Linear Hall Effect Sensor, SOT23 3pin"
+			(at 281.94 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C126669"
 			(at 281.94 151.13 0)
 			(effects
 				(font
@@ -25355,6 +26219,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C5149201"
+			(at 392.43 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "cbbc9d11-4382-480d-937a-a6c2bc67464c")
 		)
@@ -25423,6 +26296,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 24.13 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C28233"
 			(at 24.13 180.34 0)
 			(effects
 				(font
@@ -25559,6 +26441,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 64.77 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C28233"
 			(at 64.77 88.9 0)
 			(effects
 				(font
@@ -25704,6 +26595,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C5149201"
+			(at 438.15 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "fd40b02f-e9e5-4fac-a2df-36b91e91468a")
 		)
@@ -25779,6 +26679,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C126669"
+			(at 200.66 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2ed5314c-9e58-47bb-8900-e259ad9fff11")
 		)
@@ -25844,6 +26753,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 105.41 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C28233"
 			(at 105.41 111.76 0)
 			(effects
 				(font
@@ -26118,6 +27036,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C5149201"
+			(at 331.47 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "08e99021-b158-4d56-b177-ca65a3146192")
 		)
@@ -26261,6 +27188,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C5149201"
+			(at 415.29 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "eddadc84-51bf-42ab-95d5-658e55b56d12")
 		)
@@ -26328,6 +27264,15 @@
 			)
 		)
 		(property "Description" "Linear Hall Effect Sensor, SOT23 3pin"
+			(at 241.3 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C126669"
 			(at 241.3 196.85 0)
 			(effects
 				(font
@@ -26543,6 +27488,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C5149201"
+			(at 400.05 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "690f6506-8a00-426b-a995-6f9bf7e9311f")
 		)
@@ -26611,6 +27565,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 369.57 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 369.57 220.98 0)
 			(effects
 				(font
@@ -26695,6 +27658,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C5149201"
+			(at 392.43 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7530fcdc-f302-4660-92bd-b11f264940dc")
 		)
@@ -26763,6 +27735,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 273.05 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C28233"
 			(at 273.05 212.09 0)
 			(effects
 				(font
@@ -26841,6 +27822,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C28233"
+			(at 105.41 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "56031172-08b2-490c-be27-604e47d3d235")
 		)
@@ -26902,6 +27892,15 @@
 			)
 		)
 		(property "Description" "Linear Hall Effect Sensor, SOT23 3pin"
+			(at 160.02 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C126669"
 			(at 160.02 151.13 0)
 			(effects
 				(font
@@ -26975,6 +27974,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 64.77 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C28233"
 			(at 64.77 203.2 0)
 			(effects
 				(font
@@ -27187,6 +28195,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C85220"
+			(at 81.28 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bf7d5e36-eb03-4ea7-8081-eee0495b818f")
 		)
@@ -27290,6 +28307,15 @@
 			)
 		)
 		(property "Description" "Linear Hall Effect Sensor, SOT23 3pin"
+			(at 78.74 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C126669"
 			(at 78.74 105.41 0)
 			(effects
 				(font
@@ -27436,6 +28462,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C126669"
+			(at 281.94 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "30e818e6-d870-41b0-9213-dc1ee39ed354")
 		)
@@ -27501,6 +28536,15 @@
 			)
 		)
 		(property "Description" "Quadruple Bus Buffer Gates With 3-State Outputs"
+			(at 186.69 294.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C155176"
 			(at 186.69 294.64 0)
 			(effects
 				(font
@@ -27681,6 +28725,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C28233"
+			(at 267.97 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0068e78d-d9c2-484f-a1fd-9d658bfae2d7")
 		)
@@ -27743,6 +28796,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 227.33 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C28233"
 			(at 227.33 111.76 0)
 			(effects
 				(font
@@ -27821,6 +28883,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C5149201"
+			(at 361.95 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1f049d91-1a6d-4e91-887a-0efbb97b8de4")
 		)
@@ -27889,6 +28960,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 361.95 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 361.95 205.74 0)
 			(effects
 				(font
@@ -28039,6 +29119,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C28233"
+			(at 186.69 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0dab0800-ab21-401c-b1a8-8bcfdd478ceb")
 		)
@@ -28101,6 +29190,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 267.97 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C28233"
 			(at 267.97 43.18 0)
 			(effects
 				(font
@@ -28244,6 +29342,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C155176"
+			(at 196.85 313.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "12"
 			(uuid "9b93c536-78d1-424f-8dcd-43987999fc11")
 		)
@@ -28342,6 +29449,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 64.77 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C28233"
 			(at 64.77 180.34 0)
 			(effects
 				(font
@@ -28487,6 +29603,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C5149201"
+			(at 346.71 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3312a4f7-8d48-4183-aed6-b05701fd5ffc")
 		)
@@ -28563,6 +29688,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C28233"
+			(at 24.13 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "78c37fee-6138-457e-b782-93434a4a6cc0")
 		)
@@ -28623,6 +29757,15 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 293.37 288.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 293.37 288.29 0)
 			(effects
 				(font
@@ -28701,6 +29844,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C28233"
+			(at 146.05 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7fd5e61c-54a2-4256-b733-1975bc8deb5f")
 		)
@@ -28763,6 +29915,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 105.41 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C28233"
 			(at 105.41 203.2 0)
 			(effects
 				(font
@@ -28841,6 +30002,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C28233"
+			(at 186.69 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2ff0e467-1bf8-4f8a-8832-ba25a5607813")
 		)
@@ -28903,6 +30073,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 186.69 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C28233"
 			(at 186.69 157.48 0)
 			(effects
 				(font
@@ -28981,6 +30160,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C28233"
+			(at 64.77 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "319b9fdf-f7ca-4a95-ad55-99ae966a6602")
 		)
@@ -29043,6 +30231,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 339.09 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 339.09 176.53 0)
 			(effects
 				(font
@@ -29127,6 +30324,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C28233"
+			(at 227.33 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ba77d9af-f205-49f2-8f61-e07ea3b30395")
 		)
@@ -29197,6 +30403,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C28233"
+			(at 186.69 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "33e2e644-d1f9-4ed6-b10d-5e7e7fa8429b")
 		)
@@ -29259,6 +30474,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 64.77 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C28233"
 			(at 64.77 111.76 0)
 			(effects
 				(font
@@ -29470,6 +30694,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C28233"
+			(at 105.41 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0aaa1e13-e6a3-44df-b5d4-06407dab2db0")
 		)
@@ -29540,6 +30773,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C28233"
+			(at 146.05 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "256e99cf-e2fb-416e-b588-0d1450237fe0")
 		)
@@ -29600,6 +30842,15 @@
 			)
 		)
 		(property "Description" "Quadruple Bus Buffer Gates With 3-State Outputs"
+			(at 158.75 313.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C155176"
 			(at 158.75 313.69 0)
 			(effects
 				(font
@@ -29780,6 +31031,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C85220"
+			(at 203.2 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4d12fef2-1031-4e09-b4f0-0796d293fbe5")
 		)
@@ -29884,6 +31144,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 105.41 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C28233"
 			(at 105.41 88.9 0)
 			(effects
 				(font
@@ -30094,6 +31363,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C28233"
+			(at 186.69 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "161ea540-e74a-49bd-adec-33d5fb42ec7d")
 		)
@@ -30231,6 +31509,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C5149201"
+			(at 384.81 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e99b7160-2c8d-40f4-8ac2-7f8a22ca8eaf")
 		)
@@ -30299,6 +31586,15 @@
 			)
 		)
 		(property "Description" "8-channel analog multiplexer/demultiplexer, DIP-16/SOIC-16/TSSOP-16"
+			(at 162.56 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C85220"
 			(at 162.56 224.79 0)
 			(effects
 				(font
@@ -30419,6 +31715,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C28233"
+			(at 64.77 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "48160284-2ab4-4b31-a207-f0557ea0025f")
 		)
@@ -30481,6 +31786,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 407.67 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 407.67 116.84 0)
 			(effects
 				(font
@@ -30564,6 +31878,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C126669"
+			(at 160.02 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7a0be3ee-c7d1-4f07-a99f-da1f5f4382c3")
 		)
@@ -30628,6 +31951,15 @@
 			)
 		)
 		(property "Description" "Linear Hall Effect Sensor, SOT23 3pin"
+			(at 38.1 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C126669"
 			(at 38.1 105.41 0)
 			(effects
 				(font
@@ -30701,6 +32033,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 377.19 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 377.19 247.65 0)
 			(effects
 				(font
@@ -30785,6 +32126,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C5149201"
+			(at 354.33 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b9830b3b-7046-4153-9476-398d3cc22e3e")
 		)
@@ -30853,6 +32203,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 346.71 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 346.71 116.84 0)
 			(effects
 				(font
@@ -30937,6 +32296,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C28233"
+			(at 146.05 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "bcaf3b06-0f3a-4561-b9b2-b533feb274b8")
 		)
@@ -31007,6 +32375,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C28233"
+			(at 267.97 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "913f0d3c-c91c-40cc-90c8-085ebcc27091")
 		)
@@ -31069,6 +32446,15 @@
 			)
 		)
 		(property "Description" "8-channel analog multiplexer/demultiplexer, DIP-16/SOIC-16/TSSOP-16"
+			(at 121.92 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C85220"
 			(at 121.92 224.79 0)
 			(effects
 				(font
@@ -31189,6 +32575,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C5149201"
+			(at 400.05 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2a5a7357-f791-44bd-a030-1803a20fcafc")
 		)
@@ -31265,6 +32660,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C28233"
+			(at 24.13 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "bd52d77d-cfeb-4e5f-bc7f-2fd47ed2cab8")
 		)
@@ -31325,6 +32729,15 @@
 			)
 		)
 		(property "Description" "Quadruple Bus Buffer Gates With 3-State Outputs"
+			(at 176.53 313.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C155176"
 			(at 176.53 313.69 0)
 			(effects
 				(font
@@ -31431,6 +32844,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 339.09 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 339.09 220.98 0)
 			(effects
 				(font
@@ -31582,6 +33004,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C28233"
+			(at 227.33 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8b16f043-8942-4a13-9e7d-e05648043207")
 		)
@@ -31643,6 +33074,15 @@
 			)
 		)
 		(property "Description" "Linear Hall Effect Sensor, SOT23 3pin"
+			(at 119.38 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C126669"
 			(at 119.38 105.41 0)
 			(effects
 				(font
@@ -31716,6 +33156,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 346.71 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 346.71 205.74 0)
 			(effects
 				(font
@@ -31799,6 +33248,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C126669"
+			(at 200.66 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bc9f8c1e-58ab-4a05-82ee-28ea20c14334")
 		)
@@ -31822,7 +33280,7 @@
 		(at 237.49 289.56 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -31863,6 +33321,15 @@
 		)
 		(property "Description" "SSD1306 OLED"
 			(at 237.49 289.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 237.49 289.56 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32013,6 +33480,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C28233"
+			(at 105.41 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "bb5632dc-e35e-4d2d-a424-6592d80221c4")
 		)
@@ -32074,6 +33550,15 @@
 			)
 		)
 		(property "Description" "Linear Hall Effect Sensor, SOT23 3pin"
+			(at 78.74 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C126669"
 			(at 78.74 196.85 0)
 			(effects
 				(font
@@ -32147,6 +33632,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 407.67 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 407.67 205.74 0)
 			(effects
 				(font
@@ -32364,6 +33858,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C5149201"
+			(at 361.95 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ae08a9b6-40af-4c4d-a284-7a62187d1740")
 		)
@@ -32506,6 +34009,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C126669"
+			(at 241.3 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8a01ec01-125f-4bf6-b87e-fc2cc68e3cdf")
 		)
@@ -32571,6 +34083,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 328.93 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C28233"
 			(at 328.93 66.04 0)
 			(effects
 				(font
@@ -32783,6 +34304,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C28233"
+			(at 24.13 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "81428e2a-f5f2-452c-9dae-e233dc9b943f")
 		)
@@ -32919,6 +34449,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C126669"
+			(at 119.38 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9551cf1d-5405-44ff-9d5e-e273531bf3a6")
 		)
@@ -32983,6 +34522,15 @@
 			)
 		)
 		(property "Description" "Linear Hall Effect Sensor, SOT23 3pin"
+			(at 119.38 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C126669"
 			(at 119.38 36.83 0)
 			(effects
 				(font
@@ -33056,6 +34604,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 407.67 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 407.67 74.93 0)
 			(effects
 				(font
@@ -33140,6 +34697,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C28233"
+			(at 64.77 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a68edcd3-7022-4aa9-aed0-8ec703c564a9")
 		)
@@ -33201,6 +34767,15 @@
 			)
 		)
 		(property "Description" "Linear Hall Effect Sensor, SOT23 3pin"
+			(at 119.38 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C126669"
 			(at 119.38 196.85 0)
 			(effects
 				(font
@@ -33274,6 +34849,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 29.21 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C28233"
 			(at 29.21 212.09 0)
 			(effects
 				(font
@@ -33419,6 +35003,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C28233"
+			(at 227.33 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3548b6dd-dc22-4109-b9b4-f6938d13d7de")
 		)
@@ -33481,6 +35074,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 339.09 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 339.09 132.08 0)
 			(effects
 				(font
@@ -33565,6 +35167,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C28233"
+			(at 146.05 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0e2a3104-9f8f-4099-add2-4e40c00dcf36")
 		)
@@ -33626,6 +35237,15 @@
 			)
 		)
 		(property "Description" "Linear Hall Effect Sensor, SOT23 3pin"
+			(at 38.1 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C126669"
 			(at 38.1 36.83 0)
 			(effects
 				(font
@@ -33706,6 +35326,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C126669"
+			(at 200.66 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ba41c5c4-4aea-47a8-aaab-7a9a90b0bac4")
 		)
@@ -33771,6 +35400,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 377.19 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 377.19 74.93 0)
 			(effects
 				(font
@@ -33855,6 +35493,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C28233"
+			(at 328.93 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d5fbcfeb-4f8d-43c9-8d43-9a1e700fa247")
 		)
@@ -33917,6 +35564,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 392.43 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 392.43 247.65 0)
 			(effects
 				(font
@@ -33992,6 +35648,15 @@
 			)
 		)
 		(property "Description" "Linear Hall Effect Sensor, SOT23 3pin"
+			(at 78.74 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C126669"
 			(at 78.74 82.55 0)
 			(effects
 				(font
@@ -34131,6 +35796,15 @@
 			)
 		)
 		(property "Description" "Linear Hall Effect Sensor, SOT23 3pin"
+			(at 160.02 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C126669"
 			(at 160.02 196.85 0)
 			(effects
 				(font
@@ -34345,6 +36019,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C5149201"
+			(at 415.29 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0b8b8fcc-77e5-41d6-8433-5eb580fe2a44")
 		)
@@ -34420,6 +36103,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C126669"
+			(at 200.66 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "de535b73-9f4a-4830-b1c0-c761adf90925")
 		)
@@ -34484,6 +36176,15 @@
 			)
 		)
 		(property "Description" "Linear Hall Effect Sensor, SOT23 3pin"
+			(at 241.3 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C126669"
 			(at 241.3 59.69 0)
 			(effects
 				(font
@@ -34565,6 +36266,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C28233"
+			(at 191.77 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c45c2a4b-34f9-4316-935f-fb6bfa5ded28")
 		)
@@ -34635,6 +36345,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C28233"
+			(at 412.75 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b114c7b8-58e0-4893-896b-095730766a0e")
 		)
@@ -34696,6 +36415,15 @@
 			)
 		)
 		(property "Description" "Linear Hall Effect Sensor, SOT23 3pin"
+			(at 38.1 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C126669"
 			(at 38.1 196.85 0)
 			(effects
 				(font
@@ -34777,6 +36505,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C28233"
+			(at 24.13 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "77316c12-063b-4706-ae3e-42da1b15915d")
 		)
@@ -34839,6 +36576,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 100.33 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C28233"
 			(at 100.33 275.59 0)
 			(effects
 				(font
@@ -34974,6 +36720,15 @@
 			)
 		)
 		(property "Description" "Linear Hall Effect Sensor, SOT23 3pin"
+			(at 78.74 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C126669"
 			(at 78.74 151.13 0)
 			(effects
 				(font
@@ -35188,6 +36943,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C126669"
+			(at 241.3 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c22fc491-dad3-4855-8fc0-b337d7e9894a")
 		)
@@ -35253,6 +37017,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 369.57 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 369.57 90.17 0)
 			(effects
 				(font
@@ -35337,6 +37110,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C28233"
+			(at 105.41 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2c27c146-7c02-441a-a699-73cd06586f4d")
 		)
@@ -35399,6 +37181,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 105.41 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C28233"
 			(at 105.41 157.48 0)
 			(effects
 				(font
@@ -35477,6 +37268,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C28233"
+			(at 267.97 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6c7b23a3-0893-4f4c-af96-8f52840cfdcf")
 		)
@@ -35547,6 +37347,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C28233"
+			(at 227.33 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "25f0890b-351c-405a-86f9-9631cf10d587")
 		)
@@ -35608,6 +37417,15 @@
 			)
 		)
 		(property "Description" "Linear Hall Effect Sensor, SOT23 3pin"
+			(at 160.02 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C126669"
 			(at 160.02 173.99 0)
 			(effects
 				(font
