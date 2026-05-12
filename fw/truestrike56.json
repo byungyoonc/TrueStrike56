@@ -9,43 +9,6 @@
   "keycodes": [
     "qmk_lighting"
   ],
-  "customKeycodes": [
-    {
-      "name": "Secret 1",
-      "title": "Secret 1",
-      "shortName": "Sec1"
-    },
-    {
-      "name": "Secret 2",
-      "title": "Secret 2",
-      "shortName": "Sec2"
-    },
-    {
-      "name": "Callum OSM Shift",
-      "title": "Callum OSM Shift",
-      "shortName": "OShft"
-    },
-    {
-      "name": "Callum OSM Ctrl",
-      "title": "Callum OSM Ctrl",
-      "shortName": "OCtrl"
-    },
-    {
-      "name": "Callum OSM Alt",
-      "title": "Callum OSM Alt",
-      "shortName": "OAlt"
-    },
-    {
-      "name": "Callum OSM Cmd",
-      "title": "Callum OSM Cmd",
-      "shortName": "OCmd"
-    },
-    {
-      "name": "Callum OSM Hold",
-      "title": "Callum OSM Hold",
-      "shortName": "OHold"
-    }
-  ],
   "menus": [
     "qmk_rgb_matrix",
     {
@@ -331,7 +294,7 @@
         },
         "3,3",
         {
-          "x": 0.5,
+          "x": 1.5,
           "w": 1.5
         },
         "3,4",
