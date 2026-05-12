@@ -1,0 +1,347 @@
+{
+  "name": "TrueStrike56",
+  "vendorId": "0x4243",
+  "productId": "0x5454",
+  "matrix": {
+    "rows": 4,
+    "cols": 16
+  },
+  "keycodes": [
+    "qmk_lighting"
+  ],
+  "customKeycodes": [
+    {
+      "name": "Secret 1",
+      "title": "Secret 1",
+      "shortName": "Sec1"
+    },
+    {
+      "name": "Secret 2",
+      "title": "Secret 2",
+      "shortName": "Sec2"
+    },
+    {
+      "name": "Callum OSM Shift",
+      "title": "Callum OSM Shift",
+      "shortName": "OShft"
+    },
+    {
+      "name": "Callum OSM Ctrl",
+      "title": "Callum OSM Ctrl",
+      "shortName": "OCtrl"
+    },
+    {
+      "name": "Callum OSM Alt",
+      "title": "Callum OSM Alt",
+      "shortName": "OAlt"
+    },
+    {
+      "name": "Callum OSM Cmd",
+      "title": "Callum OSM Cmd",
+      "shortName": "OCmd"
+    },
+    {
+      "name": "Callum OSM Hold",
+      "title": "Callum OSM Hold",
+      "shortName": "OHold"
+    }
+  ],
+  "menus": [
+    "qmk_rgb_matrix",
+    {
+      "label": "HE Tools",
+      "content": [
+        {
+          "label": "Actuation",
+          "content": [
+            {
+              "label": "Mode",
+              "type": "dropdown",
+              "options": [
+                "APC",
+                "Rapid Trigger"
+              ],
+              "content": [
+                "id_actuation_mode",
+                0,
+                1
+              ]
+            },
+            {
+              "showIf": "{id_actuation_mode} == 0",
+              "content": [
+                {
+                  "label": "Actuation Level (0% | 100%)",
+                  "type": "range",
+                  "options": [
+                    1,
+                    1023
+                  ],
+                  "content": [
+                    "id_mode_0_actuation_threshold",
+                    0,
+                    2
+                  ]
+                },
+                {
+                  "label": "Release Level (0% | 100%, ALWAYS < Actuation Level)",
+                  "type": "range",
+                  "options": [
+                    1,
+                    1023
+                  ],
+                  "content": [
+                    "id_mode_0_release_threshold",
+                    0,
+                    3
+                  ]
+                },
+                {
+                  "label": "Apply & save changes",
+                  "type": "button",
+                  "options": [
+                    0
+                  ],
+                  "content": [
+                    "id_save_threshold_data",
+                    0,
+                    4
+                  ]
+                }
+              ]
+            },
+            {
+              "showIf": "{id_actuation_mode} == 1",
+              "content": [
+                {
+                  "label": "Initial Deadzone Offset (0% | 100%)",
+                  "type": "range",
+                  "options": [
+                    1,
+                    1023
+                  ],
+                  "content": [
+                    "id_mode_1_initial_deadzone_offset",
+                    0,
+                    5
+                  ]
+                },
+                {
+                  "label": "Actuation Offset (1-255)",
+                  "type": "range",
+                  "options": [
+                    1,
+                    255
+                  ],
+                  "content": [
+                    "id_mode_1_actuation_offset",
+                    0,
+                    6
+                  ]
+                },
+                {
+                  "label": "Release Offset (1-255)",
+                  "type": "range",
+                  "options": [
+                    1,
+                    255
+                  ],
+                  "content": [
+                    "id_mode_1_release_offset",
+                    0,
+                    7
+                  ]
+                },
+                {
+                  "label": "Apply & save changes",
+                  "type": "button",
+                  "options": [
+                    1
+                  ],
+                  "content": [
+                    "id_save_threshold_data",
+                    0,
+                    4
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Calibration",
+          "content": [
+            {
+              "label": "Bottoming Calibration",
+              "type": "toggle",
+              "content": [
+                "id_bottoming_calibration",
+                0,
+                8
+              ]
+            },
+            {
+              "label": "Noise Floor Calibration (DO NOT PRESS ANY KEY WHILE CLICKING)",
+              "type": "button",
+              "options": [
+                0
+              ],
+              "content": [
+                "id_noise_floor_calibration",
+                0,
+                9
+              ]
+            },
+            {
+              "label": "Show Calibration Data",
+              "type": "button",
+              "options": [
+                0
+              ],
+              "content": [
+                "id_show_calibration_data",
+                0,
+                10
+              ]
+            },
+            {
+              "label": "Clear Bottoming Calibration Data",
+              "type": "button",
+              "options": [
+                0
+              ],
+              "content": [
+                "id_clear_bottoming_calibration_data",
+                0,
+                11
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "layouts": {
+    "keymap": [
+      [
+        {
+          "c": "#aaaaaa"
+        },
+        "0,0",
+        {
+          "c": "#cccccc"
+        },
+        "0,4",
+        "0,8",
+        "0,12",
+        "1,0",
+        "1,4",
+        {
+          "x": 2.5
+        },
+        "1,8",
+        "1,12",
+        "2,0",
+        "2,4",
+        "2,8",
+        {
+          "c": "#aaaaaa"
+        },
+        "2,12"
+      ],
+      [
+        "0,1",
+        {
+          "c": "#cccccc"
+        },
+        "0,5",
+        "0,9",
+        "0,13",
+        "1,1",
+        "1,5",
+        {
+          "x": 2.5
+        },
+        "1,9",
+        "1,13",
+        "2,1",
+        "2,5",
+        "2,9",
+        {
+          "c": "#aaaaaa"
+        },
+        "2,13"
+      ],
+      [
+        "0,2",
+        {
+          "c": "#cccccc"
+        },
+        "0,6",
+        "0,10",
+        "0,14",
+        "1,2",
+        "1,6",
+        {
+          "x": 2.5
+        },
+        "1,10",
+        "1,14",
+        "2,2",
+        "2,6",
+        "2,10",
+        {
+          "c": "#aaaaaa"
+        },
+        "2,14"
+      ],
+      [
+        "0,3",
+        {
+          "c": "#cccccc"
+        },
+        "0,7",
+        "0,11",
+        "0,15",
+        "1,3",
+        "1,7",
+        {
+          "x": 2.5
+        },
+        "1,11",
+        "1,15",
+        "2,3",
+        "2,7",
+        "2,11",
+        {
+          "c": "#aaaaaa"
+        },
+        "2,15"
+      ],
+      [
+        {
+          "x": 2
+        },
+        "3,0",
+        "3,1",
+        "3,2",
+        {
+          "c": "#cccccc",
+          "w": 1.5
+        },
+        "3,3",
+        {
+          "x": 0.5,
+          "w": 1.5
+        },
+        "3,4",
+        {
+          "c": "#aaaaaa"
+        },
+        "3,5",
+        "3,6",
+        "3,7"
+      ]
+    ]
+  }
+}
