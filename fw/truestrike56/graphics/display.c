@@ -51,7 +51,7 @@ void display_init_kb(void) {
     uint16_t width = qp_textwidth(font, buffer);
     uint8_t height = font->line_height + 2;
     qp_drawtext(display, 64-width/2, 33 - height, font, buffer);
-    snprintf(buffer, sizeof(buffer), "TrueStrike42");
+    snprintf(buffer, sizeof(buffer), "TrueStrike56");
     width = qp_textwidth(font, buffer);
     qp_drawtext(display, 64-width/2, 33, font, buffer);
     qp_flush(display);
