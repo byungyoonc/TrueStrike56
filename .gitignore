@@ -37,3 +37,4 @@ fp-info-cache
 
 # Local project settings
 *.kicad_prl
+**/production/backups/**
