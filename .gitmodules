@@ -4,3 +4,6 @@
 [submodule "hw/submodules/KiCad-SSD1306-128x64"]
 	path = hw/submodules/KiCad-SSD1306-128x64
 	url = https://github.com/pforrmi/KiCad-SSD1306-128x64
+[submodule "hw/submodules/rollyboi"]
+	path = hw/submodules/rollyboi
+	url = https://github.com/howardt12345/rollyboi9000000.git
