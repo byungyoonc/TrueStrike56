@@ -524,7 +524,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "Gerber/",
       "specctra_dsn": "",
       "vrml": ""
     },
