@@ -21,11 +21,11 @@ int dip_init(void) {
     return 0;
 }
 
-static inline uint8_t readMatrixPin(pin_t pin) {
+static inline bool readMatrixPin(pin_t pin) {
     if (pin != NO_PIN) {
-        return (gpio_read_pin(pin) == MATRIX_INPUT_PRESSED_STATE) ? 0 : 1;
+        return gpio_read_pin(pin) == MATRIX_INPUT_PRESSED_STATE;
     } else {
-        return 1;
+        return false;
     }
 }
 
@@ -38,9 +38,14 @@ bool dip_matrix_scan(matrix_row_t *current_matrix) {
         pin_t pin = dip_pins[idx];
         matrix_row_t current_row_value = current_matrix[row];
         matrix_row_t row_shifter = 1 << col;
-        uint8_t read_result = readMatrixPin(pin);
-        current_row_value |= read_result ? 0 : row_shifter;
-        updated |= !read_result;
+        bool is_pressed = readMatrixPin(pin);
+        if (is_pressed) {
+            current_row_value &= ~(row_shifter);
+        }
+        else {
+            current_row_value |= row_shifter;
+        }
+        updated |= current_matrix[row] ^ current_row_value;
         current_matrix[row] = current_row_value;
     }
 
