@@ -1,0 +1,102 @@
+{
+    "manufacturer": "byungyoonc",
+    "keyboard_name": "TrueStrike56 Rev.2",
+    "maintainer": "byungyoonc",
+    "bootloader": "rp2040",
+    "build": {
+        "debounce_type": "sym_eager_pk"
+    },
+    "diode_direction": "COL2ROW",
+    "dynamic_keymap": {
+        "layer_count": 10
+    },
+    "features": {
+        "bootmagic": true,
+        "extrakey": true,
+        "mousekey": true,
+        "nkro": true
+    },
+    "matrix": {
+        "debounce": 100
+    },
+    "processor": "RP2040",
+    "url": "https://github.com/byungyoonc/TrueStrike56",
+    "usb": {
+        "device_version": "1.0.0",
+        "pid": "0x5455",
+        "vid": "0x4243",
+        "max_power": 25
+    },
+    "layouts": {
+        "LAYOUT_split_4x6_4": {
+            "layout": [
+                { "matrix": [0, 0], "x": 0, "y": 0.25 },
+                { "matrix": [0, 4], "x": 1, "y": 0.25 },
+                { "matrix": [0, 8], "x": 2, "y": 0.125 },
+                { "matrix": [0, 12], "x": 3, "y": 0 },
+                { "matrix": [1, 0], "x": 4, "y": 0.125 },
+                { "matrix": [1, 4], "x": 5, "y": 0.25 },
+
+                { "matrix": [1, 8], "x": 8, "y": 0.25 },
+                { "matrix": [1, 12], "x": 9, "y": 0.125 },
+                { "matrix": [2, 0], "x": 10, "y": 0 },
+                { "matrix": [2, 4], "x": 11, "y": 0.125 },
+                { "matrix": [2, 8], "x": 12, "y": 0.25 },
+                { "matrix": [2, 12], "x": 13, "y": 0.25 },
+
+                { "matrix": [0, 1], "x": 0, "y": 1.25 },
+                { "matrix": [0, 5], "x": 1, "y": 1.25 },
+                { "matrix": [0, 9], "x": 2, "y": 1.125 },
+                { "matrix": [0, 13], "x": 3, "y": 1 },
+                { "matrix": [1, 1], "x": 4, "y": 1.125 },
+                { "matrix": [1, 5], "x": 5, "y": 1.25 },
+
+                { "matrix": [1, 9], "x": 8, "y": 1.25 },
+                { "matrix": [1, 13], "x": 9, "y": 1.125 },
+                { "matrix": [2, 1], "x": 10, "y": 1 },
+                { "matrix": [2, 5], "x": 11, "y": 1.125 },
+                { "matrix": [2, 9], "x": 12, "y": 1.25 },
+                { "matrix": [2, 13], "x": 13, "y": 1.25 },
+
+                { "matrix": [0, 2], "x": 0, "y": 2.25 },
+                { "matrix": [0, 6], "x": 1, "y": 2.25 },
+                { "matrix": [0, 10], "x": 2, "y": 2.125 },
+                { "matrix": [0, 14], "x": 3, "y": 2 },
+                { "matrix": [1, 2], "x": 4, "y": 2.125 },
+                { "matrix": [1, 6], "x": 5, "y": 2.25 },
+
+                { "matrix": [1, 10], "x": 8, "y": 2.25 },
+                { "matrix": [1, 14], "x": 9, "y": 2.125 },
+                { "matrix": [2, 2], "x": 10, "y": 2 },
+                { "matrix": [2, 6], "x": 11, "y": 2.125 },
+                { "matrix": [2, 10], "x": 12, "y": 2.25 },
+                { "matrix": [2, 14], "x": 13, "y": 2.25 },
+
+                { "matrix": [0, 3], "x": 0, "y": 3.25 },
+                { "matrix": [0, 7], "x": 1, "y": 3.25 },
+                { "matrix": [0, 11], "x": 2, "y": 3.125 },
+                { "matrix": [0, 15], "x": 3, "y": 3 },
+                { "matrix": [1, 3], "x": 4, "y": 3.125 },
+                { "matrix": [1, 7], "x": 5, "y": 3.25 },
+
+                { "matrix": [1, 11], "x": 8, "y": 3.25 },
+                { "matrix": [1, 15], "x": 9, "y": 3.125 },
+                { "matrix": [2, 3], "x": 10, "y": 3 },
+                { "matrix": [2, 7], "x": 11, "y": 3.125 },
+                { "matrix": [2, 11], "x": 12, "y": 3.25 },
+                { "matrix": [2, 15], "x": 13, "y": 3.25 },
+
+                { "matrix": [3, 0], "x": 2.5, "y": 4.25 },
+                { "matrix": [3, 1], "x": 3.5, "y": 4.25 },
+                { "matrix": [3, 2], "x": 4.5, "y": 4.5 },
+                { "matrix": [3, 3], "x": 5.5, "y": 4.75 },
+                { "matrix": [3, 4], "x": 7.5, "y": 4.75 },
+                { "matrix": [3, 5], "x": 8.5, "y": 4.5 },
+                { "matrix": [3, 6], "x": 9.5, "y": 4.25 },
+                { "matrix": [3, 7], "x": 10.5, "y": 4.25 },
+
+                { "matrix": [3, 8], "x": 6.5, "y": 4 }
+            ]
+        }
+    }
+}
